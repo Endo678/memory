@@ -1,0 +1,14 @@
+h2{
+color: coral;
+}
+
+button
+{
+    color: hotpink;
+    background-color: cyan;
+}
+
+p{
+    color: sienna;
+    background: color(srgb red green blue);
+}
